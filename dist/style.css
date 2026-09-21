@@ -1,0 +1,13 @@
+@keyframes eRYWUa_fade-out {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+.eRYWUa_fade-out-on-hover:hover {
+  animation: 2s ease-in-out eRYWUa_fade-out;
+}
